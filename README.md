@@ -5,7 +5,7 @@ Description:
 The enclosed data set is the complete, cleaned results of the 2023 Stack Overflow Developer Survey. Free response submissions have been removed. The dataset consists of:
 1. survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
 2. survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
-
+Dataset link: https://insights.stackoverflow.com/survey
 
 The data has been analysed and these are the questions that have been answered:
 
