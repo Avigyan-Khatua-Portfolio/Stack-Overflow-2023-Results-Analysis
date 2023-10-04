@@ -11,7 +11,6 @@ The data has been analysed and these are the questions that have been answered:
 
 
 1. In which industries do developers get paid the most? Which industry employs the highest number of people?
-
 Ans: From the bar graph, it is observed that developers working in Other industries, such as freelance, etc. are being paid the highest, on average (124289.0). They are closely followed by developers working in Financial Services (123977.3). From the pie chart, it is clear that almost half the number of developers work in the Information Services Industry. The Financial Services Industry is the next most popular, with about 12.02% of developers working here. It is also one of the most highly-paying industries.
 
 2. How much does remote working matter to employees?
